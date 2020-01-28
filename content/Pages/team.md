@@ -1,7 +1,8 @@
-Title: Team Members
+Title: Team
 Category: Team
 Date: 01/16/2020
 Status: hidden
+Slug: Team
 url: pages/team.html
 save_as: pages/team.html
 
