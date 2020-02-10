@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Group-3'
-SITENAME = 'TCMG 412-Group Three'
+SITENAME = 'TCMG 412-Group Three Squad'
 SITEURL = "https://cfrank2.github.io"
 
 PATH = 'content'
