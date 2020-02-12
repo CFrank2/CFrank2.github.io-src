@@ -1,4 +1,4 @@
-Title: What is HTML?
+Title: Article 2
 Category: HTMLInfo
 Date: 02/10/2020
 Slug: HTMLInfo
